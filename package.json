@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmteasources/voluptatum-amet-similique-sunt",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmteasources/voluptatum-amet-similique-sunt.git"
   },
   "dependencies": {
+    "analsorhost-simple-bs": "^1.0.0"
   }
 }
